@@ -48,3 +48,5 @@ if result is False:
     print("On Repeat")
 else:
     print(result)
+
+print("i should stop talking in lectures")
